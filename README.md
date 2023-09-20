@@ -1,6 +1,8 @@
 # S3 proxy Resolver
 a simple proxy resolver created with the intention of being used with scala-cli, which does not support custom resolver protocols
 
+**Note** this proxy resolver does not allow publishing artifacts
+
 ## usage
 using `scala-cli` directly
 ```shell
